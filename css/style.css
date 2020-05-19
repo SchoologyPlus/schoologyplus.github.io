@@ -74,3 +74,9 @@ a.btn {
         text-align: right;
     }
 }
+
+.flex-container li a {
+    width: 120px !important;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+}
