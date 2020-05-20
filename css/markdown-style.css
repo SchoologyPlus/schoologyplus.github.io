@@ -3,4 +3,23 @@ h1 {
     color: #2196f3 !important;
     text-transform: uppercase !important;
     text-align: center;
+    font-weight: 500;
+    border-bottom: none !important;
+}
+
+a:hover {
+    text-decoration: none !important;
+}
+
+code * {
+    font-family: "Consolas", "Lucida Console", Monaco, monospace
+}
+
+.container {
+    padding: 50px 0;
+}
+
+.container li {
+    margin-left: 25px !important; 
+    list-style-type: disc !important;
 }
