@@ -80,3 +80,9 @@ a.btn {
     padding-left: 10px !important;
     padding-right: 10px !important;
 }
+
+.sidenav-trigger {
+    top: 0 !important;
+    left: 0 !important;
+    position: absolute !important;
+}
