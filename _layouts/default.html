@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-55873395-3"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-55873395-3');
+    </script>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link type="text/css" rel="stylesheet" href="/css/materialize.min.css" media="screen,projection" />
+    <link type="text/css" rel="stylesheet" href="/css/style.css" media="screen,projection" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    {% seo %}
+</head>
+
+<body>
+    <header class="z-depth-1">
+        <div class="blue pre-header">
+            <div class="center">
+                <a id="switch-image" href="/index.html">
+                    <img class="off-hover" src="/imgs/icon.svg" width="100">
+                    <img class="on-hover" src="/imgs/icon.svg" width="100">
+                </a>
+            </div>
+            <h3 class="white-text center header">Schoology Plus</h3>
+            <h6 class="center white-text header">A web extension that enhances your Schoology experience <br /> with
+                numerous interface improvements</h6>
+        </div>
+        <nav class="blue z-depth-0">
+            <a href="#" data-target="side-nav" class="sidenav-trigger">
+                <i class="material-icons">menu</i>
+            </a>
+            <div class="nav-wrapper">
+                <div class="brand-logo center">
+                    <ul class="right hide-on-med-and-down tabs tabs-transparent flex-container">
+                        <li class="tab">
+                            <a target="_self" href="/index">About</a>
+                        </li>
+                        <li class="tab">
+                            <a href="/download">Download</a>
+                        </li>
+                        <li class="tab">
+                            <a {% if page.title == "Changelog" %} class="active" {% endif %} href="/changelog">Changelog</a>
+                        </li>
+                        <li class="tab">
+                            <a href="https://github.com/aopell/SchoologyPlus">GitHub</a>
+                        </li>
+                    </ul>
+                </div>
+                <ul class="sidenav" id="side-nav">
+                    <li>
+                        <a href="/index">About</a>
+                        <a href="/download">Download</a>
+                        <a href="/changelog">Changelog</a>
+                        <a href="https://github.com/aopell/SchoologyPlus">GitHub</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+    <main class="container">
+        {{ content }}
+    </main>
+    <script type="text/javascript" src="/js/materialize.min.js"></script>
+    <script>
+        var sNav = document.querySelector('.sidenav');
+        var sNavInstance = M.Sidenav.init(sNav);
+
+        var elems = document.querySelectorAll('.materialboxed');
+        var instances = M.Materialbox.init(elems);
+    </script>
+</body>
+
+</html>
