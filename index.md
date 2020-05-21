@@ -45,6 +45,7 @@ title: "About"
 ### Courses In Common
 
 ![Courses in Common](https://imgur.com/0tEgPhh.png)
+
 *Image: Dialog box showing courses in common with another classmate*
 - View all courses you share with a classmate by visiting their profile page
 
@@ -61,6 +62,7 @@ title: "About"
 ### Miscellaneous Grades Page Improvements
 
 ![Grades Page](https://i.imgur.com/k6MZRKE.png)
+
 *Image: Example of the grades page showing grades for collapsed courses.*
 - Classes are sorted by period* (LAUSD schools only)
 - Grades are displayed when classes are collapsed
