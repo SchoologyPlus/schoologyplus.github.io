@@ -1,3 +1,6 @@
+---
+title: "About"
+---
 # Features
 
 ## Interface Improvements
