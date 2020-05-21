@@ -100,3 +100,9 @@ a.btn {
     max-width: 200px !important;
     max-height: 200px !important;
 }
+
+h1 {
+    font-size: 40px !important;
+    text-transform: uppercase !important;
+    font-weight: 500;
+}
