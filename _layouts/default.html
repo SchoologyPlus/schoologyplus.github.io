@@ -79,6 +79,13 @@
         var elems = document.querySelectorAll('.materialboxed');
         var instances = M.Materialbox.init(elems);
     </script>
+    {% if page.title == "Changelog" %}
+    <script>
+        if(document.location.search.includes("?version=")) {
+            document.querySelector("header").style.display = "none";
+        }
+    </script>
+    {% endif %}
 </body>
 
 </html>
