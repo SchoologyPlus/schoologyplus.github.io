@@ -7,6 +7,11 @@ h1 {
     border-bottom: none !important;
 }
 
+h2 {
+    color: #2196f3 !important;
+    border-bottom: none !important;
+}
+
 a:hover {
     text-decoration: none !important;
 }
