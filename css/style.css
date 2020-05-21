@@ -44,7 +44,7 @@
 }
 
 .tabs.tabs-transparent .tab a {
-    color: rgba(255,255,255,0.5);
+    color: rgba(255, 255, 255, 0.5);
 }
 
 #switch-image {
@@ -85,4 +85,18 @@ a.btn {
     top: 0 !important;
     left: 0 !important;
     position: absolute !important;
+}
+
+.card-browser-icon {
+    display: block;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    width: 50% !important;
+    max-width: 300px;
+    max-height: 300px;
+}
+
+.card-browser-icon.secondary-card-icon {
+    max-width: 200px !important;
+    max-height: 200px !important;
 }
