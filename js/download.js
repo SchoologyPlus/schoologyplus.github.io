@@ -37,6 +37,13 @@ function getBrowser() {
     }
 }
 
+fetch("https://api.github.com/repos/aopell/SchoologyPlus/releases/latest")
+.then(response => response.json())
+.then(json => {
+    document.getElementById("version-text").textContent = `Latest Version: ${json.tag_name}`;
+})
+.catch(err => console.error("Fetch failed", err));
+
 var browsers = ["chrome", "firefox", "edge"];
 var browser = getBrowser();
 var i = browsers.indexOf(browser);
