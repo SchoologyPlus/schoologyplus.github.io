@@ -1,9 +1,7 @@
 # Features
-<center> 
-***All features below marked with an asterisk\* can be changed or customized with a setting***
-</center>
 
 ## Interface Improvements
+> ***All features below marked with an asterisk\* can be changed or customized with a setting***
 
 ### Blue Theme
 
