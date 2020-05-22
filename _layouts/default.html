@@ -72,8 +72,19 @@
             </div>
         </nav>
     </header>
-    <main class="container markdown-body">
+    <main class="container row markdown-body">
+        {% if page.title == "About" %}
+        <div class="col s12 m9 l10">
+        {% endif %}
+
         {{ content }}
+
+        {% if page.title == "About" %}
+        </div>
+        <div class="col hide-on-small-only m3 l2">
+            <ul id="table-of-contents" class="section table-of-contents"></ul>
+        </div>
+        {% endif %}
     </main>
     <script type="text/javascript" src="/js/materialize.min.js"></script>
     <script>
@@ -83,6 +94,25 @@
         var elems = document.querySelectorAll('.materialboxed');
         var instances = M.Materialbox.init(elems);
     </script>
+    {% if page.title == "About" %}
+    <script>
+        var ssElems = document.querySelectorAll('main h1, main h2');
+        var toc = document.getElementById("table-of-contents");
+
+        for(let e of ssElems) {
+            e.classList.add("scrollspy", "section");
+            let li = document.createElement("li");
+            let a = document.createElement("a");
+            a.href = `#${e.id}`;
+            a.textContent = e.textContent;
+            a.dataset.tag = e.tagName;
+            li.appendChild(a);
+            toc.appendChild(li);
+        }
+
+        var instances = M.ScrollSpy.init(ssElems, options);
+    </script>
+    {% endif %}
     {% if page.title == "Changelog" %}
     <script>
         if(document.location.search.includes("?version=")) {
