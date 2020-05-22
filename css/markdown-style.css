@@ -46,10 +46,6 @@ blockquote {
     padding-left: 45px !important;
 }
 
-blockquote * {
-    display: inline;
-}
-
 blockquote::before {
     content: "!";
     display: block;
