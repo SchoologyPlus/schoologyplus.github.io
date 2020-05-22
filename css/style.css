@@ -106,3 +106,7 @@ h1 {
     text-transform: uppercase !important;
     font-weight: 500;
 }
+
+.card-image img {
+    padding: 5px;
+}
