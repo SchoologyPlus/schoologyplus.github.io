@@ -63,11 +63,3 @@ blockquote::before {
     height: 25px;
     margin-right: 10px;
 }
-
-.table-of-contents li {
-    list-style-type: none !important;
-}
-
-.table-of-contents li a[data-tag=H2] {
-    margin-left: 20px;
-}
