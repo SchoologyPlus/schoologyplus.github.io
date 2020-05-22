@@ -42,7 +42,8 @@ blockquote {
     border-radius: 8px;
     background-color: lightblue;
     color: #2a2a2a !important;
-    position: relative;
+    position: relative !important;
+    padding: 20px !important;
     padding-left: 45px !important;
 }
 
