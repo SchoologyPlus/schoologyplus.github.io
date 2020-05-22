@@ -83,7 +83,7 @@
             {% if page.title == "About" %}
         </div>
         <div class="col hide-on-small-only m3 l2">
-            <div class="toc-wrapper">
+            <div class="toc-wrapper pushpin">
                 <ul id="table-of-contents" class="section table-of-contents"></ul>
             </div>
         </div>
@@ -115,7 +115,7 @@
 
         var instances = M.ScrollSpy.init(ssElems, options);
 
-        M.Pushpin.init(document.querySelectorAll('.toc-wrapper'), {
+        M.Pushpin.init(document.querySelectorAll('.pushpin'), {
             top: 100,
             offset: 100
         });
