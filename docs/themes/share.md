@@ -12,6 +12,6 @@ title: "Sharing a Theme"
 
 The theme will now be copied to your clipboard. To share, paste the theme on your social media site or in your messaging application.
 
-To add or import a theme shared with you, see [Importing a Theme](Importing-a-Theme).
+To add or import a theme shared with you, see [Importing a Theme](import).
 
 ![Video Tutorial](https://i.imgur.com/iLqDq2r.gif)

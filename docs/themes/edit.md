@@ -12,6 +12,6 @@ title: "Editing a Theme"
 
 If you want to discard all changes to your theme, click the <span class="material-icons">settings_backup_restore</span> "Discard Changes" button.
 
-To learn how to use the various controls of the theme editor, see [Creating a Theme](Creating-a-Theme).
+To learn how to use the various controls of the theme editor, see [Creating a Theme](create).
 
 ![Video Tutorial](https://i.imgur.com/PzmOik4.gif)

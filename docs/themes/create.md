@@ -23,7 +23,7 @@ Welcome to the Schoology Plus theme editor! You can create your own themes to st
 
 **How to create your own theme:**
 
-1. Open the theme editor (See [Accessing the Theme Editor](Accessing-the-Theme-Editor))
+1. Open the theme editor (See [Accessing the Theme Editor](access))
 2. Click the <span class="material-icons">add</span> "New Theme" button
 3. Click the <span class="material-icons">edit</span> "Create Theme" button. You are now in "edit mode".
 4. Modify the different options in the "Properties" section. More information on each one is listed below.
@@ -123,6 +123,7 @@ There are four possible options for the logo:
 |New LAUSD Logo|![New LAUSD logo](https://imgur.com/NOuGRyZ.png)|
 |Old LAUSD Logo|![Old LAUSD logo](https://imgur.com/Mm7FXhD.png)|
 |Custom Image|See Below|
+
 > **NOTE:** The "Schoology Logo" image has a transparent background, while both LAUSD logo images have a colored background as shown above.
 
 
