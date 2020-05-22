@@ -28,3 +28,28 @@ code * {
     margin-left: 25px !important; 
     list-style-type: disc !important;
 }
+
+blockquote {
+    border: 2px solid #2196f3 !important;
+    border-radius: 8px;
+    background-color: lightblue;
+    color: #2a2a2a !important;
+    padding: 10px !important;
+}
+
+blockquote * {
+    display: inline;
+}
+
+blockquote::before {
+    content: "!";
+    display: inline-block;
+    border: 2px solid #2a2a2a;
+    border-radius: 100%;
+    width: 25px !important;
+    height: 25px !important;
+    text-align: center;
+    font-weight: bold;
+    color: #2a2a2a;
+    margin-right: 5px;
+}
