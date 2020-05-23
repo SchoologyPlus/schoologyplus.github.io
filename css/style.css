@@ -110,3 +110,13 @@ h1 {
 .card-image img {
     padding: 5px;
 }
+
+.brand-logo {
+    width: 100%;
+    display: flex !important;
+    align-items: center;
+}
+
+.flex-container {
+    width: auto !important;
+}
