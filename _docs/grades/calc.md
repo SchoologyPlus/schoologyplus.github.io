@@ -11,11 +11,11 @@ layout: docs
 >
 > You should always try your best on high-value assignments or exams. This tool is intended to provide peace-of-mind and aid in allocating limited study time, not to encourage neglecting high-value assignments.
 
-Schoology Plus can calculate the grade you need on a single assignment (for instance, a final exam) to get (or keep) a desired overall letter grade, [as defined in Course Options](#Setting-Grade-Scales).
+Schoology Plus can calculate the grade you need on a single assignment (for instance, a final exam) to get (or keep) a desired overall letter grade, [as defined in Course Options](scales).
 
-To begin, make sure [grade editing is enabled](#enabling-what-if-grades) and the grading scale [defined in Course Options](#Setting-Grade-Scales) matches the grading scale of your course.
+To begin, make sure [grade editing is enabled](enable) and the grading scale [defined in Course Options](scales) matches the grading scale of your course.
 
-If the assignment for which you want to calculate a minimum grade does not already exist, [add it](#Adding-New-Assignments). The numerator you choose does not matter, but be sure to enter an accurate denominator.
+If the assignment for which you want to calculate a minimum grade does not already exist, [add it](add). The numerator you choose does not matter, but be sure to enter an accurate denominator.
 
 If the assignment does exist, ensure its denominator has loaded (appearing as `- / 100` or similar if it does not yet have a grade, or with a numeric score like `0 / 100` if it does have a grade).
 

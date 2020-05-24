@@ -5,12 +5,11 @@ section: themes
 layout: docs
 ---
 
-# Previewing a Theme
+# Previewing a Theme <!-- omit in toc -->
 
 **Contents**
-- [Previewing a Theme](#previewing-a-theme)
-    - [To preview a theme's appearance:](#to-preview-a-themes-appearance)
-    - [To preview a theme's icons:](#to-preview-a-themes-icons)
+- [To preview a theme's appearance:](#to-preview-a-themes-appearance)
+- [To preview a theme's icons:](#to-preview-a-themes-icons)
 
 
 ### To preview a theme's appearance:

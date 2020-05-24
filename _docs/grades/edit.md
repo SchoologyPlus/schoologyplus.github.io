@@ -25,7 +25,7 @@ Multiple formats can be used to replace existing grade numerators in the gradebo
 
 * Most obviously, a number. Numbers entered (e.g. `9`, `16`, or `0.5`) directly correspond to the number of points earned on the assignment.
 * A percentage. Percentages entered (e.g. `0%`, `100%`, `110%`, or `62.5%`) correspond to scoring that percentage on the assignment, and will become a numeric point value equal to the given percentage of the total points possible (as seen in the assignment's denominator). For instance, if you enter `75%` as the new numerator of a 20-point assignment, it is equivalent to entering 15 points.
-* [A letter grade, as defined in course options](#Setting-Grade-Scales). Letter grades (e.g. `A`, `B`, or `C` in the default grading scale) will be treated equivalently to their minimum percentage. For instance, in the default grading scale, if you enter `B`, it will be treated as 80%; on a 20-point assignment, this would be equivalent to entering 16 points.
+* [A letter grade, as defined in course options](scales). Letter grades (e.g. `A`, `B`, or `C` in the default grading scale) will be treated equivalently to their minimum percentage. For instance, in the default grading scale, if you enter `B`, it will be treated as 80%; on a 20-point assignment, this would be equivalent to entering 16 points.
 
 After any new numerator is entered and the edit saved, it will be converted to a number of points and displayed numerically.
 
@@ -45,7 +45,7 @@ Assignments without grades can also have their grades edited. Just click the edi
 > 
 > ![A nograde assignment with no denominator](https://i.imgur.com/Ud07WpW.png)
 > 
-> In these cases, when you click the edit pencil, you will still be prompted to replace the dash, but you will need to enter a numerator *and* denominator, in [the same format as when adding new assignments](#Entering-new-Grades).
+> In these cases, when you click the edit pencil, you will still be prompted to replace the dash, but you will need to enter a numerator *and* denominator, in [the same format as when adding new assignments](add).
 
 ## Missing, Incomplete, and Excused Assignments
 

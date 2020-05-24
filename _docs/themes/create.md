@@ -5,21 +5,20 @@ section: themes
 layout: docs
 ---
 
-# Creating a Theme
+# Creating a Theme <!-- omit in toc -->
 
 **Contents**
-- [Creating a Theme](#creating-a-theme)
-  - [Introduction](#introduction)
-  - [Name](#name)
-  - [Color](#color)
-    - [Hue](#hue)
-    - [Custom Colors](#custom-colors)
-    - [Rainbow](#rainbow)
-  - [Logo](#logo)
-  - [Cursor](#cursor)
-  - [Icons](#icons)
-    - [How Custom Icons Work](#how-custom-icons-work)
-    - [Creating a Custom Icon Set](#creating-a-custom-icon-set)
+- [Introduction](#introduction)
+- [Name](#name)
+- [Color](#color)
+  - [Hue](#hue)
+  - [Custom Colors](#custom-colors)
+  - [Rainbow](#rainbow)
+- [Logo](#logo)
+- [Cursor](#cursor)
+- [Icons](#icons)
+  - [How Custom Icons Work](#how-custom-icons-work)
+  - [Creating a Custom Icon Set](#creating-a-custom-icon-set)
 
 ## Introduction
 
@@ -176,7 +175,7 @@ When choosing the icon to display for a given course, Schoology Plus takes the f
 ### Creating a Custom Icon Set
 **To create a single custom icon:**
 
-1. Enter edit mode (see [Introduction](#Introduction) for a new theme or [Editing a Theme](Editing-a-Theme) for existing themes)
+1. Enter edit mode (see [Introduction](#Introduction) for a new theme or [Editing a Theme](edit) for existing themes)
 2. Select the "THEME ICONS" tab in the preview pane
 3. Click the <span class="material-icons">add</span> "Add New" button on the right side
 4. Enter a regular expression into the box labeled "Class Name Pattern" in the "Class Name Regular Expression" column
