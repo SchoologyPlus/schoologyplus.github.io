@@ -12,7 +12,7 @@
     <main class="container markdown-body">
         <div class="breadcrumbs-container">
             <p>
-                <a href="/docs" class="breadcrumb">Docs</a>
+                <a href="/docs" class="breadcrumb">Help & Docs</a>
                 {% if page.section != null %}
                 {% assign section_index_page = site.docs | where_exp: "p", "p.section == page.section" | where: "name", "index" | first %}
                 <a href="{{ section_index_page.url }}" class="breadcrumb">{{ section_index_page.title }}</a>
