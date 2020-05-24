@@ -3,6 +3,21 @@ title: Changelog
 ---
 # Schoology Plus Changelog
 
+## Version 6.2 - May 24, 2020
+
+> Schoology Plus has a new website at [https://schoologypl.us](https://schoologypl.us)! Check it out!
+
+### Added
+- Collection of anonymous usage statistics (except in Firefox)
+  - This can be disabled in Schoology Plus settings
+
+### Changed
+- Moved all help page links to our new website
+- Moved changelog to our new website
+
+### Fixed
+- Issues with tooltips for word documents and other non-PDF file types on the materials page
+
 ## Version 6.1.1 - March 25, 2020
 
 ### Changed
