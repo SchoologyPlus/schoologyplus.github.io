@@ -1,21 +1,25 @@
 ---
 title: "Creating a Theme"
+name: create
+section: themes
+layout: docs
 ---
 
 # Creating a Theme
 
 **Contents**
-- [Introduction](#Introduction)
-- [Name](#Name)
-- [Color](#Color)
-  - [Hue](#Hue)
-  - [Custom Colors](#Custom-Colors)
-  - [Rainbow](#Rainbow)
-- [Logo](#Logo)
-- [Cursor](#Cursor)
-- [Icons](#Icons)
-  - [How Custom Icons Work](#How-Custom-Icons-Work)
-  - [Creating a Custom Icon Set](#Creating-a-Custom-Icon-Set)
+- [Creating a Theme](#creating-a-theme)
+  - [Introduction](#introduction)
+  - [Name](#name)
+  - [Color](#color)
+    - [Hue](#hue)
+    - [Custom Colors](#custom-colors)
+    - [Rainbow](#rainbow)
+  - [Logo](#logo)
+  - [Cursor](#cursor)
+  - [Icons](#icons)
+    - [How Custom Icons Work](#how-custom-icons-work)
+    - [Creating a Custom Icon Set](#creating-a-custom-icon-set)
 
 ## Introduction
 

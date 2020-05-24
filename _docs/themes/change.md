@@ -1,5 +1,8 @@
 ---
 title: "Changing Your Theme"
+name: change
+section: themes
+layout: docs
 ---
 
 # Changing Your Theme

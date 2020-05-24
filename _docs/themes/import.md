@@ -1,5 +1,8 @@
 ---
 title: "Importing a Theme"
+name: import
+section: themes
+layout: docs
 ---
 
 # Importing a Theme

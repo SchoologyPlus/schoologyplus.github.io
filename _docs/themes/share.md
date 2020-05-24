@@ -1,5 +1,8 @@
 ---
 title: "Sharing a Theme"
+name: share
+section: themes
+layout: docs
 ---
 
 # Sharing a Theme

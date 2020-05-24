@@ -24,16 +24,16 @@ code * {
     padding: 50px 0;
 }
 
-.container li {
+.container ul li {
     margin-left: 25px !important; 
     list-style-type: disc !important;
 }
 
-.container li li {
+.container ul li li {
     list-style-type: circle !important;
 }
 
-.container li li li {
+.container ul li li li {
     list-style-type: square !important;
 }
 
@@ -64,4 +64,50 @@ blockquote::before {
 
 .material-icons {
     vertical-align: middle;
+}
+
+.card-header {
+    font-size: 25px !important;
+    margin: 0 0 10px !important;
+}
+
+.card-content p {
+    font-size: 15px;
+}
+
+.markdown-body img {
+    background-color: transparent !important;
+}
+
+.doc-topic {
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.breadcrumbs-container {
+    text-align: center;
+}
+
+.breadcrumbs-container+h1:first-of-type {
+    margin-top: 0;
+    padding-top: 0;
+}
+
+.breadcrumb {
+    display: inline-block !important;
+    vertical-align: middle !important;
+    color: #2196f3 !important;
+}
+
+.breadcrumb:last-child {
+    color: #2196f3 !important;
+    font-weight: bold !important;
+}
+
+.breadcrumb::before {
+    vertical-align: middle !important;
+    color: #2196f3 !important;
 }

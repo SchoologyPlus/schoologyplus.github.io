@@ -1,5 +1,8 @@
 ---
 title: "Editing a Theme"
+name: edit
+section: themes
+layout: docs
 ---
 
 # Editing a Theme

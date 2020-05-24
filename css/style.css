@@ -36,11 +36,11 @@
 }
 
 .small-bottom-margin {
-    margin-bottom: 5px;
+    margin-bottom: 5px !important;
 }
 
 .small-top-margin {
-    margin-top: 5px;
+    margin-top: 5px !important;
 }
 
 .tabs.tabs-transparent .tab a {
@@ -87,7 +87,7 @@ a.btn {
     position: absolute !important;
 }
 
-.card-browser-icon {
+.card img.card-browser-icon {
     display: block;
     margin-left: auto !important;
     margin-right: auto !important;
@@ -105,10 +105,6 @@ h1 {
     font-size: 40px !important;
     text-transform: uppercase !important;
     font-weight: 500;
-}
-
-.card-image img {
-    padding: 5px;
 }
 
 .brand-logo {

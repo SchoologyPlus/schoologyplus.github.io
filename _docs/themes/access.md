@@ -1,5 +1,8 @@
 ---
 title: "Accessing the Theme Editor"
+name: access
+section: themes
+layout: docs
 ---
 
 # Accessing the Theme Editor

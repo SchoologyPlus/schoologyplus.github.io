@@ -2,3 +2,7 @@ title: Schoology Plus
 description: A web extension that enhances your Schoology experience with numerous interface improvements
 logo: /imgs/icon@128.png
 url: https://schoologypl.us/
+collections:
+  docs:
+    output: true
+    permalink: /docs/:path

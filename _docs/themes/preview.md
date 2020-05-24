@@ -1,12 +1,16 @@
 ---
 title: "Previewing a Theme"
+name: preview
+section: themes
+layout: docs
 ---
 
 # Previewing a Theme
 
 **Contents**
-- [Previewing Appearance](#To-preview-a-themes-appearance)
-- [Previewing Icons](#To-preview-a-themes-icons)
+- [Previewing a Theme](#previewing-a-theme)
+    - [To preview a theme's appearance:](#to-preview-a-themes-appearance)
+    - [To preview a theme's icons:](#to-preview-a-themes-icons)
 
 
 ### To preview a theme's appearance:

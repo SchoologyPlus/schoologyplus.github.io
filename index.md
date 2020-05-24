@@ -1,10 +1,9 @@
 ---
 title: Home
 ---
+# IMPROVE YOUR SCHOOLOGY EXPERIENCE
 
 <div class="row">
-    <h1 class="blue-text center col s12">IMPROVE YOUR SCHOOLOGY EXPERIENCE</h1>
-
     <div class="col s12 m6">
         <div class="large blue lighten-4 card hoverable z-depth-3">
             <div class="card-image">
@@ -21,7 +20,6 @@ title: Home
             </div>
         </div>
     </div>
-
     <div class="col s12 m6">
         <div class="large blue lighten-4 card hoverable z-depth-3">
             <div class="card-image">
@@ -38,7 +36,6 @@ title: Home
             </div>
         </div>
     </div>
-
     <div class="col s12 m6">
         <div class="large blue lighten-4 card hoverable z-depth-3">
             <div class="card-image">
@@ -53,7 +50,6 @@ title: Home
             </div>
         </div>
     </div>
-
     <div class="col s12 m6">
         <div class="large blue lighten-4 card hoverable z-depth-3">
             <div class="card-image">
@@ -69,12 +65,13 @@ title: Home
         </div>
     </div>
 </div>
-<h1 class="blue-text center col s12"><a href="/download">THERE'S MORE TOO!</a></h1>
+
+# AND MUCH MORE!
 <p class="center-align">
     <a href="/features" class="blue waves-effect waves-light btn-large" style="width: 300px;">VIEW MORE FEATURES</a>
 </p>
 
-<h1 class="blue-text center col s12"><a href="/download">DOWNLOAD NOW</a></h1>
+# [DOWNLOAD NOW](/download)
 <p class="center-align">
     <a href="/download" class="blue waves-effect waves-light btn-large" style="width: 300px;">GO TO DOWNLOADS</a>
 </p>

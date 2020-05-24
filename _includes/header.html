@@ -1,0 +1,56 @@
+<header class="z-depth-1">
+    <div class="blue pre-header">
+        <div class="center">
+            <a id="switch-image" href="/index">
+                <img class="off-hover" src="/imgs/icon.svg" width="100">
+                <img class="on-hover" src="/imgs/icon.svg" width="100">
+            </a>
+        </div>
+        <h3 class="white-text center header">Schoology Plus</h3>
+        <h6 class="center white-text header">A web extension that enhances your Schoology experience <br /> with
+            numerous interface improvements</h6>
+    </div>
+    <nav class="blue z-depth-0">
+        <a href="#" data-target="side-nav" class="sidenav-trigger">
+            <i class="material-icons">menu</i>
+        </a>
+        <div class="nav-wrapper">
+            <div class="brand-logo hide-on-med-and-down">
+                <ul class="right tabs tabs-transparent flex-container">
+                    <li class="tab">
+                        <a {% if page.title == "Home" %} class="active" {% endif %} href="/index">Home</a>
+                    </li>
+                    <li class="tab">
+                        <a {% if page.title == "Features" %} class="active" {% endif %} href="/features">Features</a>
+                    </li>
+                    <li class="tab">
+                        <a {% if page.url contains "/docs/" %} class="active" {% endif %} href="/docs">Help & Docs</a>
+                    </li>
+                    <li class="tab">
+                        <a {% if page.title == "Download" %} class="active" {% endif %} href="/download">Download</a>
+                    </li>
+                    <li class="tab">
+                        <a {% if page.title == "Changelog" %} class="active" {% endif %} href="/changelog">Changelog</a>
+                    </li>
+                    <li class="tab">
+                        <a href="//discord.schoologypl.us">Discord</a>
+                    </li>
+                    <li class="tab">
+                        <a href="https://github.com/aopell/SchoologyPlus">GitHub</a>
+                    </li>
+                </ul>
+            </div>
+            <ul class="sidenav" id="side-nav">
+                <li>
+                    <a href="/index">Home</a>
+                    <a href="/features">Features</a>
+                    <a href="/docs">Help & Docs</a>
+                    <a href="/download">Download</a>
+                    <a href="/changelog">Changelog</a>
+                    <a href="//discord.schoologypl.us">Discord</a>
+                    <a href="https://github.com/aopell/SchoologyPlus">GitHub</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
