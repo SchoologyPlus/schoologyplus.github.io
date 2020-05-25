@@ -5,7 +5,7 @@ title: Changelog
 
 ## Version 6.2 - May 24, 2020
 
-> Schoology Plus has a new website at [https://schoologypl.us](https://schoologypl.us)! Check it out!
+> Schoology Plus has a new website at <a href="https://schoologypl.us" target="_blank">https://schoologypl.us</a>! Check it out!
 
 ### Added
 - Collection of anonymous usage statistics (except in Firefox)
