@@ -3,6 +3,14 @@ title: Changelog
 ---
 # Schoology Plus Changelog
 
+## Version 6.2.1 - May 26, 2020
+
+### Important Note
+
+> With the introduction of our new anonymous usage statistics, we were inadvertently collecting more information than we intended. This mostly consisted of collecting URLs that included Schoology ID numbers. 
+>
+> This update fixes that and all collected potentially sensitive data has been deleted. The privacy policy has also been updated to clarify the scope of data we collect.
+
 ## Version 6.2 - May 24, 2020
 
 > Schoology Plus has a new website at <a href="https://schoologypl.us" target="_blank">https://schoologypl.us</a>! Check it out!
