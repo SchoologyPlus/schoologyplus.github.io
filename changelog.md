@@ -3,6 +3,16 @@ title: Changelog
 ---
 # Schoology Plus Changelog
 
+## Version 6.2.2 - May 28, 2020
+
+### Changed
+- Various drop-down menus now more closely follow your theme colors
+
+### Fixed
+- Schoology Plus no longer attempts to set Schoology apps as the default domain
+- "Schoology Plus Settings" title having the wrong color text in some circumstances
+- Certain buttons using theme colors for the text rather than white
+
 ## Version 6.2.1 - May 26, 2020
 
 ### Important Note
