@@ -9,7 +9,7 @@ layout: docs
 
 > The "what-if" grade utilities in Schoology Plus let you calculate impacts to your grade in various hypothetical scenarios.
 >
-> Note that all references to grade editing in this document and in Schoology Plus refer only to simulated grade changing that takes place on *your computer only*. Schoology Plus cannot change your actual course grade, and all Schoology Plus grade edits will disappear on a page reload.
+> Note that all references to grade editing in this documentation and in Schoology Plus refer only to simulated grade changing that takes place on *your computer only*. Schoology Plus cannot change your actual course grade, and all Schoology Plus grade edits will disappear on a page reload.
 
 <h2 class="center">Choose a Topic</h2>
 
