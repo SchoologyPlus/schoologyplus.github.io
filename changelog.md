@@ -3,6 +3,19 @@ title: Changelog
 ---
 # Schoology Plus Changelog
 
+## Version 6.3 - June 4, 2020
+
+### Added
+- Quick Access panel on the home page
+  - Has one-click access to all of your courses, as well as your grade report and other common pages
+  - This can be disabled in Schoology Plus settings
+- Three-dot (kebab) menus have been added to the grades page and courses page
+  - These give access to a context menu allowing faster access to grades or other course pages
+- Schoology Plus settings can now be opened by appending `#splus-settings` to the end of any Schoology URL
+
+### Fixed
+- Fixed the color of tabs on the courses page and a few other buttons
+
 ## Version 6.2.2 - May 28, 2020
 
 ### Changed
