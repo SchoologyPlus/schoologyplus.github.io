@@ -57,7 +57,7 @@ title: Home
             </div>
             <div class="card-content">
                 <h5 class="blue-text text-darken-2 card-header">Grades Page Improvements</h5>
-                <p>Schoology Plus changes a number of miscellaneous things on the grades page, such as displaying grades on collapsed courses, displaying assignment percentages, displaying point totals for all categories, allowing custom grading scales, and much more!</p>
+                <p>Schoology Plus changes a number of miscellaneous things on the grades page, such as displaying grades on collapsed courses, displaying assignment percentages, displaying point totals for all categories, allowing custom grading scales, and more!</p>
             </div>
             <div class="card-action">
                 <a class="blue-text text-darken-2" href="/features#grades-page-improvements">Learn More</a>
