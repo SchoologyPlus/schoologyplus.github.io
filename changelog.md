@@ -3,6 +3,11 @@ title: Changelog
 ---
 # Schoology Plus Changelog
 
+## Version 6.3.1 - June 6, 2020
+
+### Fixed
+- Added a wider set of domains to ignore as a default domain for Schoology Plus
+
 ## Version 6.3 - June 4, 2020
 
 ### Added
