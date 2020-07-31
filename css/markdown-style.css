@@ -60,6 +60,7 @@ blockquote::before {
     left: 10px;
     width: 25px;
     height: 25px;
+    line-height: 20px;
 }
 
 .material-icons {
