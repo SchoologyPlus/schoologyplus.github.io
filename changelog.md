@@ -3,6 +3,23 @@ title: Changelog
 ---
 # Schoology Plus Changelog
 
+## Version 6.4 - August 17, 2020
+
+> This version of Schoology Plus adds a beta test for the new dark theme! If you're interested in testing it out, please [join our Discord server!](https://discord.schoologypl.us/)
+
+### Added
+- New dark theme beta test, see above
+- Option to reposition the Quick Access panel
+  - See the "Quick Access" setting in Schoology Plus settings
+
+### Changed
+- Quick Access also appears on the Course Dashboard section of the homepage
+
+### Fixed
+- Grade denominators not loading in certain scenarios
+- Certain instances where tooltips were not loading on the materials page
+- Schoology Plus trying to set the default domain to a Schoology app
+
 ## Version 6.3.1 - June 6, 2020
 
 ### Fixed
