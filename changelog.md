@@ -3,6 +3,19 @@ title: Changelog
 ---
 # Schoology Plus Changelog
 
+## Version 6.4.1 - September 5, 2020
+
+### Added
+- Support for period ordering for schools not in LAUSD
+  - This will only work if your school's courses each contain their period numbers in the form of "PERIOD #" or "PER #"
+
+### Changed
+- Numerous additions to dark theme
+
+### Fixed
+- Beta dialog box not opening on Mac
+- Problem with custom rainbow themes not working
+
 ## Version 6.4 - August 17, 2020
 
 > This version of Schoology Plus adds a beta test for the new dark theme! If you're interested in testing it out, please [join our Discord server!](https://discord.schoologypl.us/)
