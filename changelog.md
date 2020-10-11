@@ -3,6 +3,27 @@ title: Changelog
 ---
 # Schoology Plus Changelog
 
+## Version 6.5 - October 11, 2020
+
+### Added
+- You can now click on a grade's numeric value to change it when using what-if grades (thanks [@reteps](https://github.com/reteps))
+- Open in new tab button for certain document materials (like Google Docs) on the preview page (thanks [@reteps](https://github.com/reteps))
+- New people to the contributors panel
+ - Thank you [Peter Stenger (@reteps)](https://github.com/reteps) and [@Roguim](https://github.com/Roguim) for your development help!
+ - You can help contribute to Schoology Plus as well! [Visit us on GitHub](https://github.com/aopell/SchoologyPlus) and [join our Discord](https://discord.schoologypl.us/)!
+ - We're also participating in in [Digital Ocean's Hacktoberfest!](https://hacktoberfest.digitalocean.com/)
+
+### Changed
+- Updated a few course icons (LAUSD only)
+ - Homeroom, PE
+ - Also fixed a couple classes whose icons were showing incorrectly
+- Updated DOMPurify library to version 2.1.1
+- Courses in common now show directly on the profile page (thanks [@reteps](https://github.com/reteps))
+
+### Fixed
+- Various dark theme changes, additions, and fixes including new calendar colors (thanks [@Roguim](https://github.com/Roguim))
+- Fixed Schoology Plus changing the default domain to certain apps and Schoology error pages
+
 ## Version 6.4.1 - September 5, 2020
 
 ### Added
