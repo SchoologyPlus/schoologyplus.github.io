@@ -3,20 +3,41 @@ title: Changelog
 ---
 # Schoology Plus Changelog
 
+## Version 6.6 - October 19, 2020
+
+### Added
+- **Upcoming assignments now show a checkmark when they've been submitted**
+  - This was a highly requested feature
+  - By default, green check marks ✔ are shown on all assignments you've submitted.
+  - There are also options for putting a ~~strikethrough~~ through the assignment title or hiding the assignments completely.
+  - Of course you can also turn this feature off in settings.
+- New people to the contributors panel
+  - Thank you [@xd-arsenic](https://github.com/xd-arsenic) for your development help!
+  - You can help contribute to Schoology Plus as well! [Visit us on GitHub](https://github.com/aopell/SchoologyPlus) and [join our Discord](https://discord.schoologypl.us/)!
+
+### Changed
+- Updated a few course icons (LAUSD only)
+- Various dark theme improvements
+  - The new Schoology assessments are now dark (thanks [@xd-arsenic](https://github.com/xd-arsenic))
+  - Various other fixes and interface improvements (thanks [@Roguim](https://github.com/Roguim))
+
+### Fixed
+- Graded assignments no longer extend past the bottom of the "and N more assignments" box on the notifications page
+
 ## Version 6.5 - October 11, 2020
 
 ### Added
 - You can now click on a grade's numeric value to change it when using what-if grades (thanks [@reteps](https://github.com/reteps))
 - Open in new tab button for certain document materials (like Google Docs) on the preview page (thanks [@reteps](https://github.com/reteps))
 - New people to the contributors panel
- - Thank you [Peter Stenger (@reteps)](https://github.com/reteps) and [@Roguim](https://github.com/Roguim) for your development help!
- - You can help contribute to Schoology Plus as well! [Visit us on GitHub](https://github.com/aopell/SchoologyPlus) and [join our Discord](https://discord.schoologypl.us/)!
- - We're also participating in in [Digital Ocean's Hacktoberfest!](https://hacktoberfest.digitalocean.com/)
+  - Thank you [Peter Stenger (@reteps)](https://github.com/reteps) and [@Roguim](https://github.com/Roguim) for your development help!
+  - You can help contribute to Schoology Plus as well! [Visit us on GitHub](https://github.com/aopell/SchoologyPlus) and [join our Discord](https://discord.schoologypl.us/)!
+  - We're also participating in in [Digital Ocean's Hacktoberfest!](https://hacktoberfest.digitalocean.com/)
 
 ### Changed
 - Updated a few course icons (LAUSD only)
- - Homeroom, PE
- - Also fixed a couple classes whose icons were showing incorrectly
+  - Homeroom, PE
+  - Also fixed a couple classes whose icons were showing incorrectly
 - Updated DOMPurify library to version 2.1.1
 - Courses in common now show directly on the profile page (thanks [@reteps](https://github.com/reteps))
 
