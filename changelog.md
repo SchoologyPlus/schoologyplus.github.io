@@ -3,6 +3,15 @@ title: Changelog
 ---
 # Schoology Plus Changelog
 
+## Version 6.6.4 - October 19, 2020
+> This release fixes the check mark bug from version `6.6`.
+>
+> ***NOTE:*** Version `6.6.1` **DOES NOT** fix that bug, so please wait until you receive version `6.6.4`.
+
+### Fixed
+- Assignment check marks not working correctly
+- Timers not showing during assessments in dark theme
+
 ## Version 6.6 - October 19, 2020
 
 ### Added
