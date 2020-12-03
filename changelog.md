@@ -3,6 +3,31 @@ title: Changelog
 ---
 # Schoology Plus Changelog
 
+## Version 6.7 - December 2, 2020
+
+> **Take the Schoology Plus Fall 2020 Survey for your chance to win one of twenty Amazon gift cards with a total value of $150!**
+>
+> [**Click here to take it now!**](http://survey.schoologypl.us?source=ChangelogNotice)
+
+### Added
+- You can now manually mark assignments as complete using the new checkboxes in the Upcoming and Overdue sections of the homepage
+  - This is an improvement of our previous checkmarks, which tried to automatically detect submitted assignments and mark them as complete
+  - Submissions can't be detected for all assignments, so we're still automatically marking certain assignments as submitted, but others you will need to check manually
+  - If you previously changed the "Show Submitted Upcoming Assignments" setting, it has been reset to enable this new feature. You can always go back into Schoology Plus Settings to modify the setting
+
+### Changed
+- Updated the setting "Show Submitted Upcoming Assignments" to describe the new manual checkmarks described above
+- Updated the names of certain contributors and added GitHub usernames for all contributors
+- Dark theme now automatically changes the color of text posts to be readable, this will be configurable soon
+
+### Removed
+- The popup stating Schoology Plus has updated the domain it runs on has been removed
+
+### Fixed
+- Google Docs assignments no longer show checkmarks when not submitted
+- Schoology Plus no longer runs on the account registration page on the Schoology website
+- Numerous dark theme updates. Dark theme full release coming very soon!
+
 ## Version 6.6.4 - October 19, 2020
 > This release fixes the check mark bug from version `6.6`.
 >
