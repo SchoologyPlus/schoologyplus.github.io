@@ -3,6 +3,11 @@ title: Changelog
 ---
 # Schoology Plus Changelog
 
+## Version 6.7.1 - December 6, 2020
+
+### Fixed
+- Checkmarks and quick access now appear if homepage is set to Course Dashboard in Schoology settings
+
 ## Version 6.7 - December 2, 2020
 
 > **Take the Schoology Plus Fall 2020 Survey for your chance to win one of twenty Amazon gift cards with a total value of $150!**
