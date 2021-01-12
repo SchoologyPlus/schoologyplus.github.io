@@ -16,6 +16,11 @@ layout: docs
   - [Rainbow](#rainbow)
 - [Logo](#logo)
 - [Cursor](#cursor)
+- [Modern Engine Options](#modern-engine-options)
+  - [Interface Colors](#interface-colors)
+  - [Text Colors](#text-colors)
+  - [Calendar Colors](#calendar-colors)
+  - [Options](#options)
 - [Icons](#icons)
   - [How Custom Icons Work](#how-custom-icons-work)
   - [Creating a Custom Icon Set](#creating-a-custom-icon-set)
@@ -27,14 +32,13 @@ Welcome to the Schoology Plus theme editor! You can create your own themes to st
 **How to create your own theme:**
 
 1. Open the theme editor (See [Accessing the Theme Editor](access))
-2. Click the <span class="material-icons">add</span> "New Theme" button
-3. Click the <span class="material-icons">edit</span> "Create Theme" button. You are now in "edit mode".
-4. Modify the different options in the "Properties" section. More information on each one is listed below.
-5. When you're satisfied with the theme, click <span class="material-icons">save</span> "Save Theme" or <span class="material-icons">check</span> "Save and Apply"
+2. Click the <span class="material-icons">add</span> "Create Theme" button. You are now in "edit mode".
+3. Modify the different options in the "Properties" section. More information on each one is listed below.
+4. When you're satisfied with the theme, click <span class="material-icons">save</span> "Save" or <span class="material-icons">check</span> "Save & Apply"
 
 If you want to discard all changes to your theme, click the <span class="material-icons">settings_backup_restore</span> "Discard Changes" button.
 
-![Video Tutorial](https://i.imgur.com/mXiGxM8.gif)
+![Video Tutorial](https://i.imgur.com/NJ9DgFF.gif)
 
 ## Name
 
@@ -154,6 +158,41 @@ You can set a custom image to replace your cursor when using your theme. The onl
 
 *The "Toy" theme uses a custom cursor*
 ![Custom Cursor](https://i.imgur.com/8nRZR9q.gif)
+
+## Modern Engine Options
+The new Schoology Plus Modern Theme Engine allows extremely fine-grained customization of colors for the entire Schoology interface. Unlike the other older color options, the modern engine changes the entire interface instead of just links and the navigation bar. The Modern Engine is the backbone behind Schoology Plus's Modern Dark and Modern Light built-in themes.
+
+Using the Modern Engine, you can create your own dark or light theme with any colors that you choose. The Schoology Plus Modern Theme Engine gives you more control over the appearance of Schoology, however it's slightly more complex to use. Additionally, the modern engine does not work everywhere and may cause certain content to be displayed incorrectly. Use at your own risk, but please [use our Discord server to report bugs if you find them](https://discord.schoologypl.us/)!
+
+### Interface Colors
+The Modern Engine makes use of 9 different colors to customize the entire Schoology interface. Each color is used in many different places, so these descriptions are meant to be a *general idea* of where they might be used rather than 100% accurate.
+
+- Primary Color: The main background color of most pages
+- Accent Color: The color of the main content container on each page
+- Secondary Color: The color of some side containers and menus
+- Input Color: The color of text boxes and other types of input fields
+- Border Color: The color of borders around interface elements
+- Highlight Color: For highlighting things
+- Active Color: The color of selected menu items
+- Grades Color: The color of letter grades and assignment scores
+- Error Color: The color of error boxes and text
+
+### Text Colors
+There are 3 different text colors used in different situations. Once again, these descriptions are meant to be a *general idea* of where they might be used rather than 100% accurate.
+
+- Primary Text Color: The color of almost all text in Schoology
+- Muted Text Color: The color of greyed-out or less important text
+- Contrast Text Color: The color of titles and navigation bar menus
+
+### Calendar Colors
+Calendar colors are not currently customizable with the theme editor. They will automatically switch between the light and dark theme colors depending on your Primary Color.
+
+### Options
+These options change how certain interface elements are spaced and styled.
+
+- Border Radius: Controls how rounded the corners are on panels
+- Border Size: The width of all borders in the interface
+- Element Padding: The space between interface elements
 
 ## Icons
 

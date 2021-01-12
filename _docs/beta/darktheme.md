@@ -6,6 +6,12 @@ name: darktheme
 
 # Dark Theme Beta Test
 
+> ### The Dark Theme Beta Test has ended!
+> 
+> **Thanks to all your amazing help and support, we were finally able to fully release the dark theme after over 6 months of work!**
+> 
+> **If you want to learn how to apply the new Schoology Plus Modern Dark theme, you can [click here](/docs/themes/dark)**.
+
 Welcome to the Schoology Plus dark theme beta test! This has been in the works for a very long time, and we're excited to finally share it with you! This beta test is actually more than just a dark theme test, it's actually a test of a brand new theme engine that will eventually allow you to create themes that customize much more of the Schoology interface. Also included in this test is the new light theme, which uses this new theme engine as well.
 
 ## Joining the Beta

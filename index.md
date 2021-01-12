@@ -7,7 +7,7 @@ title: Home
     <div class="col s12 m6">
         <div class="large blue lighten-4 card hoverable z-depth-3">
             <div class="card-image">
-                <img class="materialboxed" src="https://i.imgur.com/9xFp99d.gif">
+                <img class="materialboxed" src="/imgs/what-if-grades.png">
             </div>
             <div class="card-content">
                 <h5 class="blue-text text-darken-2 card-header">What-If Grades</h5>
@@ -23,16 +23,44 @@ title: Home
     <div class="col s12 m6">
         <div class="large blue lighten-4 card hoverable z-depth-3">
             <div class="card-image">
-                <img class="materialboxed" src="https://i.imgur.com/iHPS0vc.gif">
+                <img class="materialboxed" src="/imgs/themes.png">
             </div>
             <div class="card-content">
-                <h5 class="blue-text text-darken-2 card-header">Custom Themes</h5>
-                <p>Change the navigation bar color, logo image, mouse cursor, course icons, and more using the
+                <h5 class="blue-text text-darken-2 card-header">Dark Theme</h5>
+                <p>Completely comprehensive dark theme for Schoology that covers the entire site! There's also a modern light theme that looks much more pleasant to the eye.</p>
+            </div>
+            <div class="card-action">
+                <a class="blue-text text-darken-2" href="/docs/themes/dark">Learn More</a>
+            </div>
+        </div>
+    </div>
+    <div class="col s12 m6">
+        <div class="large blue lighten-4 card hoverable z-depth-3">
+            <div class="card-image">
+                <img class="materialboxed" src="/imgs/theme-editor.png">
+            </div>
+            <div class="card-content">
+                <h5 class="blue-text text-darken-2 card-header">Theme Editor</h5>
+                <p>Change the navigation bar color, logo image, mouse cursor, course icons, and the entire rest of the interface using the
                     fully customizable theme editor! Choose one of the built-in themes or create your own and
                     share with your friends!</p>
             </div>
             <div class="card-action">
                 <a class="blue-text text-darken-2" href="/docs/themes">Learn More</a>
+            </div>
+        </div>
+    </div>
+    <div class="col s12 m6">
+        <div class="large blue lighten-4 card hoverable z-depth-3">
+            <div class="card-image">
+                <img class="materialboxed" src="/imgs/checkmarks.png">
+            </div>
+            <div class="card-content">
+                <h5 class="blue-text text-darken-2 card-header">Checkmarks</h5>
+                <p>By default, green checkmarks ✔ are shown on all assignments you've submitted. You can also manually check off assignments as you complete them.</p>
+            </div>
+            <div class="card-action">
+                <a class="blue-text text-darken-2" href="/features#check-marks-for-submitted-upcoming-assignments">Learn More</a>
             </div>
         </div>
     </div>

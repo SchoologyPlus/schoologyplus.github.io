@@ -11,7 +11,7 @@ layout: docs
 > *Note: Default themes cannot be shared*
 
 1. Identify the theme you want to share in the theme list
-2. Click the ![copy](https://imgur.com/Mt7sj6C.png) "Copy Theme" button
+2. Click the ![copy](https://imgur.com/Mt7sj6C.png) "Copy Theme to Clipboard" button
 
 The theme will now be copied to your clipboard. To share, paste the theme on your social media site or in your messaging application.
 
