@@ -3,6 +3,52 @@ title: Changelog
 ---
 # Schoology Plus Changelog
 
+## Version 7.0 - January 11, 2021
+
+> The Schoology Plus Fall 2020 Survey closes on 1/31/2021 at midnight PST! **Don't forget to fill it out for your chance to win one of twenty Amazon gift cards worth $150! [Click here to take the survey now!](http://survey.schoologypl.us?source=ChangelogReminderNotice)**
+
+### Added
+- Dark Theme has finally been released!
+  - After [over 6 months of work](https://github.com/aopell/SchoologyPlus/commit/e0af7a23362d1d4e82df8313c7260d347cffc6f4), the new modern theme engine has been released!
+  - New light theme as well!
+    - We (the developers) think it looks really good! Not like those blinding white themes other apps use...
+  - You can now pick from Schoology Plus Modern Dark or Schoology Plus Modern Light in the theme editor theme list
+  - Please report bugs to the `#darktheme-bugs` channel in [our Discord server](https://discord.schoologypl.us) if you find any
+- When you first update to v7.0 (or install for the first time), you'll get a popup dialog box asking you to choose a new theme
+- Modern Engine Options in the Theme Editor
+  - You can create your own dark or light theme using the theme editor!
+  - If you don't like our new built-in themes, try your hand at making your own.
+  - There are a lot more customization options now allowing control over nearly every color used in the interface.
+  - The mock interface (in-editor preview) has been expanded to include a new screen
+- New Toggle Theme button on the navigation bar when using the modern themes
+  - Since the modern themes change the interface significantly, there might be times where they cause display issues.
+  - Use the Toggle Theme button to temporarily disable your theme if this happens
+- New setting "Override Styled Text"
+  - Override styled text in homefeed posts and discussion responses when using modern themes.
+  - WARNING: This guarantees text is readable on dark theme, but removes colors and other styling that may be important. You can always use the Toggle Theme button on the navigation bar to temporarily disble your theme.
+- Initial support for domains other than `*.schoology.com` or `lms.lausd.net`
+  - Right click the Schoology Plus icon in the browser toolbar and select "Enable Schoology Plus on this domain"
+  - Please treat this as a beta test for now, this is not considered a supported feature
+  - That being said, please report bugs to [our Discord server](https://discord.schoologypl.us) if you find any
+- Added [@KTibow](https://github.com/KTibow) to the contributors dialog. Thanks for your help!
+
+### Changed
+- Minor theme editor UI tweaks
+  - Added labels to certain buttons
+  - Replaced new theme FAB with two separate "Create Theme" and "Import Theme" buttons
+  - Icons and JSON tabs no longer follow the scroll position
+  - Added a new help button in the editor screen
+
+### Removed
+- Unnecessary `webRequest` and `webRequestBlocking` permissions
+
+### Fixed
+- A large number of features not working on Firefox
+  - Due to a change in browser behavior between Firefox 78 and 79, a lot of Schoology Plus features stopped working.
+  - We had a very hard time figuring out what was going wrong for multiple months
+  - We finally found the solution, and the extension should work completely in Firefox again!
+- Course options button not showing up if certain course information wasn't shown on the course page
+
 ## Version 6.7.1 - December 6, 2020
 
 ### Fixed
