@@ -116,3 +116,7 @@ h1 {
 .flex-container {
     width: auto !important;
 }
+
+video {
+    width: 100% !important;
+}
