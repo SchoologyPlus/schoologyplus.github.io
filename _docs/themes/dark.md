@@ -11,7 +11,7 @@ Schoology Plus has a built-in dark theme along with [many other features](/featu
 
 <video autoplay muted loop>
   <source src="https://i.imgur.com/MNehXl0.mp4" type="video/mp4">
-  <img src="https://i.imgur.com/MNehXl0.gif" alt="Dark Theme Tutorial Video">
+  Video tutorial for enabling Dark Theme for Schoology using the theme editor in Schoology Plus.
 </video>
 
 
