@@ -3,6 +3,28 @@ title: Changelog
 ---
 # Schoology Plus Changelog
 
+## Version 7.1 - January 16, 2021
+
+### Changed
+- Course Nicknames are Under Maintenance
+  - Due to performance concerns, course nicknames may not show up in every place you're used to seeing them. We're working on a fix so hopefully this can be resolved as soon as possible. Thanks for your patience.
+  - Nicknames will continue to show up in some places, but not in any content that appears after the initial page load
+- Checkmarks can now be used with *anything* that appears in the Upcoming or Overdue box
+  - This includes personal and class calendar events
+- Theme Toggle button now sets theme to "Schoology Plus" temporarily rather than just disabling modern engine
+  - This fixes text readability issues for certain custom themes
+- Various modern theme engine improvements
+  - Photo albums should no longer have white borders
+  - Page shouldn't be white at the bottom anymore when loading
+  - Submitted assignment preview X button has been restyled
+  - "You must submit a comment before seeing replies" message now uses highlight color for the background
+
+### Fixed
+- Checkmarks sometimes not appearing at all
+- Checkmarks not appearing when multiple assignments shared the same name and due date
+- What-If grades not working on archived courses on third party domains
+- Firefox "take a screenshot" feature not working with modern themes
+
 ## Version 7.0 - January 11, 2021
 
 > The Schoology Plus Fall 2020 Survey closes on 1/31/2021 at midnight PST! **Don't forget to fill it out for your chance to win one of twenty Amazon gift cards worth $150! [Click here to take the survey now!](http://survey.schoologypl.us?source=ChangelogReminderNotice)**
