@@ -9,7 +9,10 @@ layout: docs
 
 Schoology Plus has a built-in dark theme along with [many other features](/features.md) as well! Here's how you can get dark theme for your Schoology:
 
-![dark theme tutorial](https://i.imgur.com/MNehXl0.gif)
+<video autoplay muted loop>
+  <source src="https://i.imgur.com/MNehXl0.mp4" type="video/mp4">
+  ![dark theme tutorial](https://i.imgur.com/MNehXl0.gif)
+</video>
 
 1. Make sure you [download and install Schoology Plus](/download.md) from the extension store of your current browser
 2. Once you install Schoology Plus, open your school's Schoology site
