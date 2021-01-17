@@ -1,6 +1,7 @@
 ---
 title: "Getting Schoology Dark Theme"
 name: dark
+description: Get dark theme for Schoology using Schoology Plus! Full support for dark mode on every page in addition to dozens of other features!
 section: themes
 layout: docs
 ---
