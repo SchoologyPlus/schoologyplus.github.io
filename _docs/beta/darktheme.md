@@ -6,7 +6,7 @@ name: darktheme
 
 # Dark Theme Beta Test
 
-> ### The Dark Theme Beta Test has ended!
+> ### The Dark Theme Beta Test has ended! [See the full release here!](/docs/themes/dark)
 > 
 > **Thanks to all your amazing help and support, we were finally able to fully release the dark theme after over 6 months of work!**
 > 
