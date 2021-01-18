@@ -4,6 +4,10 @@ layout: docs
 name: darktheme
 ---
 
+<head>
+    <meta http-equiv="refresh" content="0;url=/docs/themes/dark" />
+</head>
+
 # Dark Theme Beta Test
 
 > ### The Dark Theme Beta Test has ended! [See the full release here!](/docs/themes/dark)
