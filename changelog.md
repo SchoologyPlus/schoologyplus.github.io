@@ -3,6 +3,26 @@ title: Changelog
 ---
 # Schoology Plus Changelog
 
+## Version 7.2 - March 2, 2021
+### Added
+- Quick Links
+  - Add a shortcut link to Quick Access that the user specifies in Course Options
+  - Great for Zoom meeting links or course websites
+
+![Quick Links set up instructions](https://i.imgur.com/xCqivIx.png)
+
+### Changed
+- What-If Grades now works for classes with multiple grading periods (semesters, quarters, etc.)
+  - Previously calculations would be incorrect or what-if grades would fail to start entirely
+- Added [@EricPedley](https://github.com/EricPedley) to the contributors page. Thanks for your contributions!
+- File and folder descriptions now follow the "Override Styled Text" setting
+
+### Fixed
+- The toggle theme button no longer expands to the full width of the page on small window sizes
+- Custom course icons should no longer blink when parts of the page change
+- Fixed some minor modern theme issues
+- Schoology Plus should no longer load on support.schoology.com and on other Schoology website domains
+
 ## Version 7.1 - January 16, 2021
 
 ### Changed
