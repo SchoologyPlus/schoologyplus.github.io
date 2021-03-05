@@ -1,0 +1,122 @@
+.no-margin {
+    margin: 0;
+}
+
+.pre-header {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.pre-header h3 {
+    margin-top: 8px;
+    margin-bottom: 16px;
+}
+
+.nav-wrapper li>a {
+    font-weight: bold;
+}
+
+.card-header {
+    margin-top: 0;
+    font-weight: 500;
+}
+
+.card-action>a {
+    font-weight: 500;
+}
+
+* {
+    font-family: Roboto, -apple-system, BlinkMacSystemFont, "Segoe UI", Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif
+}
+
+.card.small .card-image+.card-content,
+.card.medium .card-image+.card-content,
+.card.large .card-image+.card-content {
+    max-height: 80%;
+}
+
+.small-bottom-margin {
+    margin-bottom: 5px !important;
+}
+
+.small-top-margin {
+    margin-top: 5px !important;
+}
+
+.tabs.tabs-transparent .tab a {
+    color: rgba(255, 255, 255, 0.5);
+}
+
+#switch-image {
+    --hover: none;
+    --no-hover: initial;
+}
+
+#switch-image:hover {
+    --hover: initial;
+    --no-hover: none;
+}
+
+.on-hover {
+    display: var(--hover);
+}
+
+.off-hover {
+    display: var(--no-hover);
+}
+
+a.btn {
+    margin: 3px;
+}
+
+@media only screen and (min-width: 993px) {
+    .right-on-large-and-up {
+        text-align: right;
+    }
+}
+
+.flex-container li a {
+    width: 120px !important;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+}
+
+.sidenav-trigger {
+    top: 0 !important;
+    left: 0 !important;
+    position: absolute !important;
+}
+
+.card img.card-browser-icon {
+    display: block;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    width: 50% !important;
+    max-width: 300px;
+    max-height: 300px;
+}
+
+.card-browser-icon.secondary-card-icon {
+    max-width: 200px !important;
+    max-height: 200px !important;
+}
+
+h1 {
+    font-size: 40px !important;
+    text-transform: uppercase !important;
+    font-weight: 500;
+}
+
+.brand-logo {
+    width: 100%;
+    display: flex !important;
+    align-items: center;
+}
+
+.flex-container {
+    width: auto !important;
+}
+
+video {
+    width: 100% !important;
+}

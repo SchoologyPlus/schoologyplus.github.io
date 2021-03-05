@@ -10,7 +10,7 @@
                 "isDefault": true
             },
             "type": "shell",
-            "command": "GEM_HOME=\"$HOME/gems\" PATH=\"$HOME/gems/bin:$PATH\" bundle exec jekyll serve"
+            "command": "GEM_HOME=\"$HOME/gems\" PATH=\"$HOME/gems/bin:$PATH\" bundle exec jekyll serve --force_polling"
         }
     ]
 }

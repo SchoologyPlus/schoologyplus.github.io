@@ -57,4 +57,7 @@ title: Download
         </a>
     </div>
 </div>
-<script type="text/javascript" src="/js/download.js"></script>
+
+<script type="text/javascript">
+    {% include js/download.js %}
+</script>
