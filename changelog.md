@@ -3,6 +3,11 @@ title: Changelog
 ---
 # Schoology Plus Changelog
 
+## Version 7.2.2 - March 16, 2021
+
+### Fixed
+- Another attempt to fix the issue where Quick Access and checkmarks would disappear for some people
+
 ## Version 7.2.1 - March 13, 2021
 
 ### Fixed
