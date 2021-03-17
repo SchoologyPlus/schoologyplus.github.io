@@ -3,6 +3,15 @@ title: Changelog
 ---
 # Schoology Plus Changelog
 
+## Version 7.2.4 - March 16, 2021
+
+### Added
+- Course icons that are SVGs are now set as the favicon on course pages
+  - All built-in icons for the LAUSD domain will work with this feature
+
+### Fixed
+- Issues where certain features would be missing for some users
+
 ## Version 7.2.2 - March 16, 2021
 
 ### Fixed
