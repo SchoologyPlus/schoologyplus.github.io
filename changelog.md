@@ -3,6 +3,28 @@ title: Changelog
 ---
 # Schoology Plus Changelog
 
+## Version 7.2.4 - March 16, 2021
+
+### Added
+- Course icons that are SVGs are now set as the favicon on course pages
+  - All built-in icons for the LAUSD domain will work with this feature
+
+### Fixed
+- Issues where certain features would be missing for some users
+
+## Version 7.2.2 - March 16, 2021
+
+### Fixed
+- Another attempt to fix the issue where Quick Access and checkmarks would disappear for some people
+
+## Version 7.2.1 - March 13, 2021
+
+### Fixed
+- Fixed an issue where Quick Access would not show up in some cases
+  - If this is still occurring for you after this update, please contact us in [our Discord server](https://discord.schoologypl.us)
+- Fixed an issue where what-if grades would calculate incorrect values on weighted courses with multiple grading periods
+- Fixed an issue where unlinked assignments would not match the theme colors on the grades page
+
 ## Version 7.2 - March 2, 2021
 ### Added
 - Quick Links
