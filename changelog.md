@@ -3,6 +3,31 @@ title: Changelog
 ---
 # Schoology Plus Changelog
 
+## Version 7.3 - September 8, 2021
+
+### Added
+<img src="https://imgur.com/0Q5rgDp.png" width="200">
+
+- You can now create themes based on one of four presets
+  - The four presets are: Modern Dark, Modern Light, Modern Rainbow, Classic
+- Added a new setting "Use Built-In Icon Set"
+  - Allows you to pick whether or not to use Schoology Plus's icon set
+  - Since these icons were created for Los Angeles Unified School District, they may not work well for schools in other districts
+  - Enabled by default for LAUSD schools, disabled by default for any other schools
+  - You can preview the built-in icon set by clicking the link in Schoology Plus settings
+
+### Changed
+- Added and modified some default course icons
+- Course letter grade now appears on the grades page even if total course grade box is hidden by your teacher
+- Opening the notifications dropdown now clears the number of notifications on the browser extension toolbar icon
+- Minor modern theme tweaks
+
+### Fixed
+- Dark theme warning is no longer massive when viewing the results of an assessment attempt
+- Courses in common now correctly displays on empty user profiles
+- Checkmarks now work correctly for calendar events
+- Attempted fix on issue that causes various extension features (quick access, checkmarks, etc.) to be randomly disabled
+
 ## Version 7.2.4 - March 16, 2021
 
 ### Added
