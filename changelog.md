@@ -3,6 +3,27 @@ title: Changelog
 ---
 # Schoology Plus Changelog
 
+## Version 7.3.1 - September 12, 2021
+
+### Added
+- You can now choose to either temporarily or permanently hide the dark theme warning message when taking assessments
+
+### Changed
+- Reformated the contributors list
+  - Additionally included a large number of new contributors that have helped out with tasks such as testing features, reporting bugs, or moderating our Discord server
+  - Thank you to everyone who has contributed to Schoology Plus!
+  - Learn more about how to contribute [here](https://github.com/aopell/SchoologyPlus/blob/develop/CONTRIBUTING.md)
+- Grades page sorting of courses by period now matches "P1", "P2", etc.
+  - In the future, we will likely remove this setting and attempt to sort classes in the same order as specified in the course dropdown
+
+### Fixed
+- Added an error message when saving a theme fails due to running out of storage space
+- Fixed an issue with navigation bar hover colors in modern themes
+- When creating a theme from a preset, you are no longer asked if you want to rename your theme when attempting to save
+- The "Enable Schoology Plus on this domain" context menu item no longer allows toggling on lms.lausd.net
+- Attempted a fix for another instance where extension features randomly disable
+  - If you continue to experience this, please reach out in our [Discord server](https://discord.schoologypl.us/) with a screenshot of your browser console (<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>J</kbd>)
+
 ## Version 7.3 - September 8, 2021
 
 ### Added
