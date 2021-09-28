@@ -3,6 +3,21 @@ title: Changelog
 ---
 # Schoology Plus Changelog
 
+## Version 7.3.2 - September 28, 2021
+
+> Schoology Plus is working on a project to update various icons around the Schoology interface. This is a slow process, so if you or someone you know would like to help hunt down icons and update spritesheets, please[ join the Schoology Plus Discord](https://discord.schoologypl.us/) server and look for the "Modernized Icons" thread in the `#feature-requests` channel
+
+### Added
+- A new settings menu for the Theme Editor
+  - This is currently empty, but stay tuned
+
+### Changed
+- Added labels to the navigation bar buttons in the Theme Editor and course icon library
+
+### Fixed
+- All navigation bar drop down menus being white
+- An issue with material tooltips failing to load assignment information
+
 ## Version 7.3.1 - September 12, 2021
 
 ### Added
