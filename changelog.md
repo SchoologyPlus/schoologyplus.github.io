@@ -3,6 +3,11 @@ title: Changelog
 ---
 # Schoology Plus Changelog
 
+## Version 7.3.3 - November 1, 2021
+
+### Fixed
+- Classes now correctly sort by period when that option is enabled
+
 ## Version 7.3.2 - September 28, 2021
 
 > Schoology Plus is working on a project to update various icons around the Schoology interface. This is a slow process, so if you or someone you know would like to help hunt down icons and update spritesheets, please[ join the Schoology Plus Discord](https://discord.schoologypl.us/) server and look for the "Modernized Icons" thread in the `#feature-requests` channel
