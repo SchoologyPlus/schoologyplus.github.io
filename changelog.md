@@ -3,7 +3,7 @@ title: Changelog
 ---
 # Schoology Plus Changelog
 
-## Version 7.3.3 - November 1, 2021
+## Version 7.3.3 / 7.3.4 - November 1, 2021
 
 ### Fixed
 - Classes now correctly sort by period when that option is enabled
