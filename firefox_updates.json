@@ -1,0 +1,12 @@
+{
+    "addons": {
+      "schoology.plus@aopell.me": {
+        "updates": [
+          {
+            "version": "7.3.4",
+            "update_link": "https://github.com/aopell/SchoologyPlus/releases/latest/download/schoology_plus-7.3.4-an+fx.xpi"
+          }
+        ]
+      }
+    }
+  }
