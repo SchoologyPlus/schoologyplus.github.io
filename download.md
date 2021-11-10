@@ -25,10 +25,10 @@ title: Download
             </div>
             <div class="card-content white-text">
                 <span id="b-title" class="card-title">Firefox</span>
-                <p id="b-description">Download Schoology Plus from Firefox Add-ons</p>
+                <p id="b-description">Download Schoology Plus from our GitHub page (choose the .xpi file)</p>
             </div>
             <div class="card-action">
-                <a id="b-link" class="white-text" href="https://addons.mozilla.org/en-US/firefox/addon/schoology-plus/">Click Here to Download</a>
+                <a id="b-link" class="white-text" href="https://github.com/aopell/SchoologyPlus/releases/latest">Click Here to Download</a>
             </div>
         </div>
     </div>

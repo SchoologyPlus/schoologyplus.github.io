@@ -8,8 +8,8 @@ var p = {
     },
     "firefox": {
         title: "Firefox",
-        description: "Download Schoology Plus from Firefox Add-ons",
-        link: "https://addons.mozilla.org/en-US/firefox/addon/schoology-plus/",
+        description: "Download Schoology Plus from our GitHub page (choose the .xpi file)",
+        link: "https://github.com/aopell/SchoologyPlus/releases/latest",
         color: "deep-purple",
         tint: "darken-4"
     },
