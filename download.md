@@ -25,10 +25,10 @@ title: Download
             </div>
             <div class="card-content white-text">
                 <span id="b-title" class="card-title">Firefox</span>
-                <p id="b-description">Download Schoology Plus from our GitHub page (choose the .xpi file)</p>
+                <p id="b-description">Download Schoology Plus from our website</p>
             </div>
             <div class="card-action">
-                <a id="b-link" class="white-text" href="https://github.com/aopell/SchoologyPlus/releases/latest">Click Here to Download</a>
+                <a id="b-link" class="white-text" href="https://github.com/aopell/SchoologyPlus/releases/latest/download/schoology_plus.xpi">Click Here to Download</a>
             </div>
         </div>
     </div>
@@ -47,7 +47,7 @@ title: Download
         </div>
     </div>
     <div class="col s12 center">
-        <h3 class="center" id="version-text"></h3>
+        <a href="https://github.com/aopell/SchoologyPlus/releases/latest"><h3 class="center" id="version-text"></h3></a>
         <h1 class="blue-text small-bottom-margin">VERSION HISTORY</h1>
         <a class="small-top-margin" href="https://github.com/aopell/SchoologyPlus/releases" target="_blank">
             <div>

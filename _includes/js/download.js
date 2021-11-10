@@ -8,8 +8,8 @@ var p = {
     },
     "firefox": {
         title: "Firefox",
-        description: "Download Schoology Plus from our GitHub page (choose the .xpi file)",
-        link: "https://github.com/aopell/SchoologyPlus/releases/latest",
+        description: "Download Schoology Plus from our website",
+        link: "https://github.com/aopell/SchoologyPlus/releases/latest/download/schoology_plus.xpi",
         color: "deep-purple",
         tint: "darken-4"
     },
@@ -40,7 +40,7 @@ function getBrowser() {
 fetch("https://api.github.com/repos/aopell/SchoologyPlus/releases/latest")
 .then(response => response.json())
 .then(json => {
-    document.getElementById("version-text").textContent = `Latest Version: ${json.tag_name}`;
+    document.getElementById("version-text").textContent = `Latest: ${json.name}`;
 })
 .catch(err => console.error("Fetch failed", err));
 
