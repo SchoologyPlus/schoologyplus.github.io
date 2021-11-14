@@ -3,6 +3,12 @@ title: Changelog
 ---
 # Schoology Plus Changelog
 
+## Version 7.3.5 - November 13, 2021
+
+### Fixed
+- Various course icons should no longer be missing
+- The sort courses icon should no longer be missing
+
 ## Version 7.3.3 / 7.3.4 - November 1, 2021
 
 ### Fixed
