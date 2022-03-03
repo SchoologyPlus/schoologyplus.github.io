@@ -3,6 +3,12 @@ title: Changelog
 ---
 # Schoology Plus Changelog
 
+## Version 7.3.6 - March 2, 2022
+
+### Fixed
+- Various features were not working due to a bug with Schoology's API key page. A workaround has been added to get around this issue.
+  - Thank you to senoe#0001 on Discord for your help identifying the workaround
+
 ## Version 7.3.5 - November 13, 2021
 
 ### Fixed
