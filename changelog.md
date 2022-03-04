@@ -3,6 +3,17 @@ title: Changelog
 ---
 # Schoology Plus Changelog
 
+## Version 7.4 - March 3, 2022
+
+### Added
+- A new page for granting access to your Schoology API Key
+  - This is necessary due to a new Schoology security feature
+  - Granting access is optional, but key features of Schoology Plus like What-If Grades, Assignment Checkmarks, and Quick Access won't work without it
+  - Certain features will display a button to enable this access if you haven't yet done so
+  - You can see a preview of this screen below
+
+![API Key Request Screen Image](https://i.imgur.com/PdU5V7k.png)
+
 ## Version 7.3.6 - March 2, 2022
 
 ### Fixed
