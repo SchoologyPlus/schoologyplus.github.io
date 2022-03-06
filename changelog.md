@@ -3,6 +3,12 @@ title: Changelog
 ---
 # Schoology Plus Changelog
 
+## Version 7.4.1 - March 5, 2022
+
+### Fixed
+- New authorization page now works correctly for users without an API key previously generated
+- Fixed colors of navigation bar dropdowns for some users (thank you @Henry-Gooseleg!)
+
 ## Version 7.4 - March 3, 2022
 
 ### Added
