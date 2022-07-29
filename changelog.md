@@ -3,6 +3,11 @@ title: Changelog
 ---
 # Schoology Plus Changelog
 
+## Version 7.4.2 - July 28, 2022
+
+### Fixed
+- An issue causing the toggle theme button's explainer popup to continuously appear
+
 ## Version 7.4.1 - March 5, 2022
 
 ### Fixed
