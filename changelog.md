@@ -3,6 +3,15 @@ title: Changelog
 ---
 # Schoology Plus Changelog
 
+## Version 7.5 - October 22, 2022
+
+### Added
+- Calendar colors are now editable in the theme editor (thanks @Roguim)
+
+### Changed
+- Now all 30 calendar colors are customizable with the theme engine instead of only the first 20
+- Improved modern/dark themes in many areas (thanks @Roguim)
+
 ## Version 7.4.2 - July 28, 2022
 
 ### Fixed
