@@ -3,6 +3,18 @@ title: Changelog
 ---
 # Schoology Plus Changelog
 
+## Version 7.6 - December 4, 2022
+
+### Added
+- Added a new message when your school or district blocks access to your Schoology API key (thanks @Roguim)
+- Added a button to close the API key consent dialog and show the original API key for developers (thanks @Roguim)
+- Added instructions for how to enable Schoology Plus on custom domains to the README and S+ website (thanks @senoj26)
+
+### Fixed
+- Fixed a typo causing incorrect behavior when selecting "Calculate Minimum Grade" (thanks @dsnsgithub)
+- Fixed an issue causing course nicknames to never appear in the courses drop-down menu (thanks @jetline0)
+  - Note that course nicknames are still not functioning correctly 100% of the time and may not always appear
+
 ## Version 7.5 - October 22, 2022
 
 ### Added
