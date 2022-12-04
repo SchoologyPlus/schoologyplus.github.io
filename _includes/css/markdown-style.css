@@ -78,6 +78,8 @@ blockquote::before {
 
 .markdown-body img {
     background-color: transparent !important;
+    display: block !important;
+    margin: auto !important;
 }
 
 .doc-topic {
