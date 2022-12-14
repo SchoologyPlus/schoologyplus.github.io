@@ -1,0 +1,9 @@
+[
+  {
+    "id": "initialTestBroadcast",
+    "title": "Test Broadcast",
+    "message": "<strong>This</strong> is a <span color=red>test</span>!",
+    "timestamp": 1670993441035,
+    "expires": 1672531200000
+  }
+]
