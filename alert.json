@@ -1,16 +1,9 @@
 [
   {
-    "id": "initialTestBroadcast",
-    "title": "Test Broadcast",
-    "message": "<strong>This</strong> is a <span color=red>test</span>!",
-    "timestamp": 1670993441035,
+    "id": "happyHolidays2022",
+    "title": "Happy Holidays from Schoology Plus!",
+    "message": "Thanks for using Schoology Plus! Wishing everyone a great winter break and a happy new year!",
+    "timestamp": 1670889600000,
     "expires": 1672531200000
-  },
-  {
-    "id": "initialTestBroadcast2",
-    "title": "Test Expired Broadcast",
-    "message": "<strong>This</strong> is a <span color=green>test</span>!",
-    "timestamp": 1670993441034,
-    "expires": 1670993441035
   }
 ]
