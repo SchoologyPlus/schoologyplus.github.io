@@ -5,5 +5,12 @@
     "message": "<strong>This</strong> is a <span color=red>test</span>!",
     "timestamp": 1670993441035,
     "expires": 1672531200000
+  },
+  {
+    "id": "initialTestBroadcast2",
+    "title": "Test Expired Broadcast",
+    "message": "<strong>This</strong> is a <span color=green>test</span>!",
+    "timestamp": 1670993441034,
+    "expires": 1670993441035
   }
 ]
