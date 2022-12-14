@@ -3,6 +3,40 @@ title: Changelog
 ---
 # Schoology Plus Changelog
 
+## 🍀 Lucky Version 7.7 - December 13, 2022
+
+This version adds a number of user requested features from our Discord server.
+
+### Added
+- Schoology Plus will now automatically bypass the external link redirection page
+  - The page appears when clicking some links that lead to outside Schoology
+  - The default behavior will be to click the "Continue" button automatically, but this can be disabled in Schoology Plus Settings
+- Grading scales can now be set as the default for all courses
+  - After editing a grading scale for a single course, select the "Set as default grading scale for all courses" link to save as the default scale
+-  Added a new option to Calculate Minimum Grade where you can specify the target grade manually rather than using an assigned letter grade
+- Added the ability to export and import settings across devices
+  - The Schoology Plus Settings menu now has "Export Settings" and "Import Settings" links at the bottom
+  - Beware that importing an invalid settings configuration could break Schoology Plus
+- Added a new option to "View Debug Info" in Schoology Plus Settings
+  - This screen will display your settings as well as some information about your browser to help us debug issues in Schoology Plus
+- Right clicking the extension icon now provides a quick way to access the Theme Editor and our Discord server
+- Added the ability to load new homepage announcements without the need for an extension update
+  - As always, Schoology Plus homepage announcements can be disabled in Schoology Plus Settings
+
+### Changed
+- Updated the modern theme engine to work better on the teacher interface (thanks @Roguim)
+  - Please note that the teacher interface is still not technically supported by Schoology Plus, and some features may look or behave strangely
+- **For LAUSD Schools Only:** Updated the logo for the LAUSD Dark Blue theme to be the new LAUSD logo
+  - It is still possible to add the old logo to custom themes
+  - A new included theme called "LAUSD 2019" has been created that has the old logo with the same color scheme
+
+### Fixed
+- Fixed an issue where resetting course options to default values did not reset the quick link
+- Fixed an issue where clicking the "Reorder" button above the course list in Quick Access sometimes did not open the reorder menu
+- Fixed an issue where Calculate Minimum Grade would not work correctly for assignments with a score of 0 (thanks @dsnsgithub)
+- Fixed an issue where Calculate Minimum Grade would assign a grade with an excessively large decimal value (thanks @dsnsgithub)
+- Fixed an issue causing it to be impossible to grant Schoology Plus access to your account
+
 ## Version 7.6 - December 4, 2022
 
 ### Added
