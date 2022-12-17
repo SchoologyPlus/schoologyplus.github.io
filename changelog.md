@@ -3,6 +3,20 @@ title: Changelog
 ---
 # Schoology Plus Changelog
 
+## Version 7.7.1 - December 17, 2022
+
+### Changed
+- Letter grades based on your course's grading scale are now shown after making an edit with What-If Grades
+- Updated Google Analytics version
+
+### Fixed
+- Fixed an issue causing the What-If Grades checkbox to send you to the API key request page every time even when API key access is disabled by Schoology admins
+- Fixed an issue causing multiple features of What-If Grades to fail when a teacher revealed only the letter grade of an assignment and not the numeric score
+- Fixed an issue where the default grading scale would be set as the selected course's grading scale as well
+- Fixed an issue where category point totals were not rounded when editing scores using What-If Grades
+- Fixed an issue causing Courses In Common to not load if any course failed to load members
+- Fixed an issue causing the hue slider to not work in the theme editor when creating a new theme from a modern template
+
 ## 🍀 Lucky Version 7.7 - December 13, 2022
 
 This version adds a number of user requested features from our Discord server.
