@@ -3,6 +3,12 @@ title: Changelog
 ---
 # Schoology Plus Changelog
 
+## Version 7.7.2 - December 21, 2022
+
+### Changed
+- **[LAUSD Only]** Updated the default course icon pack to include more course titles
+- Updated copyright year to 2023
+
 ## Version 7.7.1 - December 17, 2022
 
 ### Changed
