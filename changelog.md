@@ -3,6 +3,11 @@ title: Changelog
 ---
 # Schoology Plus Changelog
 
+## Version 7.7.3 - December 29, 2022
+
+### Fixed
+- Fixed an issue preventing course settings from saving
+
 ## Version 7.7.2 - December 21, 2022
 
 ### Changed
