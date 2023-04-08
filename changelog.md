@@ -9,16 +9,19 @@ title: Changelog
 - You can now change your theme directly from Schoology Plus settings instead of opening the theme editor (thanks @TheThonos)
 - You can now customize the order and visibility of all sidebar sections on the homepage
   - Go to the new "Homepage/Sidebar" tab in Schoology Plus settings and find the "Customize Sidebar" setting
+- Added a new setting to control the visibility of the new "Overdue" and "Due Soon" icons in the Upcoming and Overdue sections
 
 ### Changed
 - Updated Schoology Plus settings to have tabs
   - This should make settings easier to find and edit
+- Returned "Upcoming" and "Overdue" assignments into two sections like they were before the recent Schoology update
 
 ### Removed
 - Two settings have been removed ("Quick Access Visibility" and "Upcoming/Overdue Visibility") due to the new sidebar customization feature having more flexibility
   - If you had changed these settings in the past, you will need to reconfigure your sidebar with the new Customize Sidebar setting
 
 ### Fixed
+- Fixed an issue with the new Schoology update causing the "Overdue" and "Due Soon" icons to be oversized on the sidebar
 - Fixed an issue where you could create a theme with the same name as some default themes, causing unexpected behavior
 
 ## Version 7.7.3 - December 29, 2022
