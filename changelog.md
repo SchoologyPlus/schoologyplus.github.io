@@ -3,6 +3,11 @@ title: Changelog
 ---
 # Schoology Plus Changelog
 
+## Version 7.8.1 - April 9, 2023
+
+### Fixed
+- Fixed an issue causing Quick Access to always appear at the bottom of the sidebar regardless of selected position
+
 ## Version 7.8 - April 7, 2023
 
 ### Added
