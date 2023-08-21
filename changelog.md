@@ -3,6 +3,13 @@ title: Changelog
 ---
 # Schoology Plus Changelog
 
+## Version 7.8.2 - August 20, 2023
+
+### Fixed
+- Fixed some styling issues for Schoology sites with the new header and footer design
+  - My test account does not currently have this design, so some styles are likely still broken and will hopefully be fixed soon
+- Fixed a bug causing the "Import Settings" feature to not function at all
+
 ## Version 7.8.1 - April 9, 2023
 
 ### Fixed
