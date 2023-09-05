@@ -3,6 +3,13 @@ title: Changelog
 ---
 # Schoology Plus Changelog
 
+## Version 7.8.3 - September 4, 2023
+
+### Fixed
+- Fixed some more styling issues with the new Schoology UI
+- Added extra filtering when loading online broadcasts
+- Fixed an issue causing course icons to not show correctly on the course dashboard homepage
+
 ## Version 7.8.2 - August 20, 2023
 
 ### Fixed
