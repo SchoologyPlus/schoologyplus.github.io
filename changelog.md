@@ -3,6 +3,11 @@ title: Changelog
 ---
 # Schoology Plus Changelog
 
+## Version 7.8.5 - September 6, 2023
+
+### Fixed
+- Fixed an issue with the styling of the navigation bar on the new Schoology UI
+
 ## Version 7.8.4 - September 5, 2023
 
 ### Added
