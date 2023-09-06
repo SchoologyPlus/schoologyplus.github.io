@@ -3,6 +3,15 @@ title: Changelog
 ---
 # Schoology Plus Changelog
 
+## Version 7.8.4 - September 5, 2023
+
+### Added
+- New setting "Use Course Icons as Favicons When Possible"
+  - This has been a default functionality in Schoology Plus for a long time (since v7.2.4) but now has a setting to disable if not desired
+
+### Fixed
+- Fixed some styling issues on the Google Drive assignment page and assessment page
+
 ## Version 7.8.3 - September 4, 2023
 
 ### Fixed
