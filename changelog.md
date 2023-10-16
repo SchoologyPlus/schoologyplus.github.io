@@ -3,6 +3,18 @@ title: Changelog
 ---
 # Schoology Plus Changelog
 
+## Version 7.8.6 - October 15, 2023
+
+> **Take the Schoology Plus Fall 2023 Survey for your chance to win one of twenty Amazon gift cards with a total value of $150!**
+>
+> [**Click here to take it now!**](http://survey.schoologypl.us?source=ChangelogNotice)
+
+### Changed
+- Improved the navigation icon coloring on the new interface so they are still visible even on dark themes
+
+### Fixed
+- Fixed some colors for the new version of the Schoology interface
+
 ## Version 7.8.5 - September 6, 2023
 
 ### Fixed
