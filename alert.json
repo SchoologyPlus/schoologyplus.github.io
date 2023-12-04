@@ -12,5 +12,12 @@
     "message": "<div>\n    <strong style=\"background: rgba(0,128,255,0.5) !important; color: white !important;\">Survey Closes November 1!</strong>\n    <p>Spend 10 minutes completing this year's survey and you'll be entered into a giveaway for one of\n        <span style=\"background: rgb(255, 255, 0) !important; color: black !important; font-weight: bold;\">20 Amazon gift cards totaling $150</span>\n        : ten $10 cards and ten $5 cards, so <strong>your chance of winning is higher than ever before!</strong>\n    </p>\n    <p><a href=\"https://survey.schoologypl.us?source=ExtensionFollowupBroadcast\"><strong style=\"background: rgba(255,60,0,0.5) !important; color: white !important; font-size: 16px;\">Click here to take the survey now before it closes!</strong></a></p>\n</div>",
     "timestamp": 1698624000000,
     "expires": 1698883200000
-  }
+  },
+  {
+    "id": "survey2023GiftCards",
+    "title": "Survey Gift Card Winners Selected!",
+    "message": "Thanks to all 17000+ people who took the Schoology Plus Fall 2023 Survey! Winners of the gift cards have been selected so please check your emails (and your spam folder!) for an email and respond by Wednesday December 6 to receive your gift card!",
+    "timestamp": 1701712000000,
+    "expires": 1702022400000
+  },
 ]
