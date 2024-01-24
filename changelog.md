@@ -3,6 +3,18 @@ title: Changelog
 ---
 # Schoology Plus Changelog
 
+## Version 7.9 - January 23, 2024
+
+### Added
+- New setting to hide the PowerSchool logo on the navigation bar (defaults to visible)
+
+### Removed
+- Old setting to hide the Schoology Help Center button (no longer exists)
+
+### Fixed
+- Fixed the display of percentages on the grades page (thanks @dsnsgithub!)
+- Fixed an issue causing the API key page to reload after showing the secret even when using the "X" button to hide the Schoology Plus account access screen
+
 ## Version 7.8.6 - October 15, 2023
 
 > **Take the Schoology Plus Fall 2023 Survey for your chance to win one of twenty Amazon gift cards with a total value of $150!**
