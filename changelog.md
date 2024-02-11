@@ -3,6 +3,16 @@ title: Changelog
 ---
 # Schoology Plus Changelog
 
+## Version 7.10 - February 11, 2024
+
+### Added
+- Schoology Plus will now attempt to show maximum points available for an assignment in the Recently Completed section of the sidebar on the homepage
+  - Sometimes it is not possible to find the maximum points, but they will be shown if it is possible to find them
+
+### Fixed
+- Fixed issues with What-If grades when assignments had no grade (thanks @dsnsgithub)
+- Fixed display issues in some dropdown menus on the navigation bar when using a classic theme
+
 ## Version 7.9 - January 23, 2024
 
 ### Added
