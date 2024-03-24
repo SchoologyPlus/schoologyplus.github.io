@@ -3,6 +3,11 @@ title: Changelog
 ---
 # Schoology Plus Changelog
 
+## Version 7.10.1 - March 23, 2024
+
+### Fixed
+- Fixed an issue where the school logo would overlap the Schoology Plus logo or custom theme logo
+
 ## Version 7.10 - February 11, 2024
 
 ### Added
