@@ -3,6 +3,21 @@ title: Changelog
 ---
 # Schoology Plus Changelog
 
+## Version 10.0.0 - May 27, 2024
+
+### Changed
+- Schoology Plus has been updated to be compatible with Google Chrome's new "Manifest v3" API for browser extensions.
+- All browser extensions are required to use this new API by June of this year, and Schoology Plus has been substantially rewritten in order to support it.
+- The update has been tested, but since so much of the extension's code has changed there will likely be some bugs.
+- If you notice that anything is not working correctly, please report it to the [Schoology Plus Discord server](https://discord.schoologypl.us)
+
+### Removed
+- Temporarily removed the feature allowing you to hover over PDFs on the course materials page and see previews
+  - This will likely be added back in a future release
+
+### Fixed
+- Vertically centered the Schoology Plus settings button on the navigation bar (thanks @sealsrock12)
+
 ## Version 7.10.1 - March 23, 2024
 
 ### Fixed
