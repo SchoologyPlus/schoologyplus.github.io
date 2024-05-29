@@ -3,6 +3,11 @@ title: Changelog
 ---
 # Schoology Plus Changelog
 
+## Version 10.0.1 - May 28, 2024
+
+### Fixed
+- Attempted to fix an issue where extension features would load multiple times on the same page
+
 ## Version 10.0.0 - May 27, 2024
 
 ### Changed
