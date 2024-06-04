@@ -11,7 +11,7 @@ layout: docs
 <div class="row">
 {% assign index_pages = site.docs | where_exp: "p", "p.section != null" | where: "name", "index" %}
 {% for index_page in index_pages %}
-<div class="col s12 m6">
+<div class="col s12 m6 l4">
     <a href="{{ index_page.url }}">
         <div class="small doc-topic card-panel blue darken-2 hoverable z-depth-3">
             <strong class="white-text">
