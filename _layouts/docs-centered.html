@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    {% include head.html %}
+    {% seo %}
+</head>
+
+<body>
+    {% include header.html %}
+
+    <main class="container markdown-body">
+        <div class="breadcrumbs-container">
+            <p>
+                <a href="/docs" class="breadcrumb">Help & Docs</a>
+                {% if page.section != null %}
+                {% assign section_index_page = site.docs | where_exp: "p", "p.section == page.section" | where: "name", "index" | first %}
+                <a href="{{ section_index_page.url }}" class="breadcrumb">{{ section_index_page.title }}</a>
+                {% if page.name != "index" %}
+                <a href="{{ page.url }}" class="breadcrumb">{{ page.title }}</a>
+                {% endif %}
+                {% endif %}
+            </p>
+        </div>
+        <article style="text-align: center;">
+        {{ content }}
+        </article>
+    </main>
+    <script type="text/javascript" src="/js/materialize.min.js"></script>
+    <script>
+        var sNav = document.querySelector('.sidenav');
+        var sNavInstance = M.Sidenav.init(sNav);
+
+        var elems = document.querySelectorAll('.materialboxed');
+        var instances = M.Materialbox.init(elems);
+    </script>
+</body>
+
+</html>
