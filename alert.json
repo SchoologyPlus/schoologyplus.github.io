@@ -20,4 +20,11 @@
     "timestamp": 1701712000000,
     "expires": 1702022400000
   },
+  {
+    "id": "eoy24Feedback",
+    "title": "End of School Year Feedback",
+    "message": "<p>Was the Schoology Plus extension helpful for you this school year?<ul><li><a href=https://link.aopell.me/splus-pos>👍 <strong>Yes!</strong> Schoology Plus helped me or was useful to me</a><li style=padding-top:5px><a href=https://link.aopell.me/splus-neg>👎 <strong>No</strong>, Schoology Plus was not helpful or could be improved</a></ul><p><strong>Thanks for using Schoology Plus!</strong> We really appreciate your feedback 😊",
+    "timestamp": 1717527600000,
+    "expires": 1718409600000
+  }
 ]
