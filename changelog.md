@@ -3,6 +3,18 @@ title: Changelog
 ---
 # Schoology Plus Changelog
 
+## Version 10.1.0 - June 9, 2024
+
+### Added
+- Added a button to PDF materials pages allowing you to view the document in the browser's native PDF viewer
+
+### Changed
+- The navigation bar icons in the top right now properly change color to your theme's text color
+- Improved the speed of bypassing the external link redirection page when the "Automatically Bypass Link Redirects" setting is enabled
+
+### Fixed
+- Fixed an issue that prevented modifying existing themes in the theme editor
+
 ## Version 10.0.1 - May 28, 2024
 
 ### Fixed
